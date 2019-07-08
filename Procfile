@@ -1,1 +1,1 @@
-worker: node bot.js Face-x System
+worker: node Face-x System
